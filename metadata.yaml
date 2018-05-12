@@ -1,0 +1,34 @@
+_repo: Zur-Psychopathologie-des-Alltagslebens-ber-Vergessen-Versprechen-Vergreifen-Aberglaube-und-Ir__24429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24429'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology, Pathological'
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Memory'
+- !lcsh 'Repression (Psychology)'
+- !lcsh 'Paragrammatism'
+title: 'Zur Psychopathologie des Alltagslebens
+
+  Über Vergessen, Versprechen, Vergreifen, Aberglaube und Irrtum'
+url: http://www.gutenberg.org/ebooks/24429
