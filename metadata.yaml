@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24429#Zur-Psychopathologie-des-Alltagslebens-ber-Vergessen-Versprechen-Vergreifen-Aberglaube-und-Ir_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-01-26'
 gutenberg_type: Text
